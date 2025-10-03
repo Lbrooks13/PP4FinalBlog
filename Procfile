@@ -1,1 +1,1 @@
-web: gunicorn pp4finalblog.wsgi
+web: gunicorn pp4blog.wsgi
